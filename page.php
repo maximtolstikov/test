@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/style.css" />
     </head>
     <body>
-<?php
+<?php   ////
     $client_id = '6058712'; // ID приложения
     $client_secret = 'r4KfnY9eGkHl0j9RCaGK'; // Защищённый ключ
     $redirect_uri = 'http://livemoon.ddns.net/page.php'; // Редирект 

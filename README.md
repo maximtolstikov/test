@@ -1,2 +1,2 @@
 # test
-for lerning
+for learning
